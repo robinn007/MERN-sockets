@@ -24,7 +24,7 @@ const getServerUrl = () => {
   }
   
   // For local development
-  return 'http://localhost:5000' || 'https://mern-sockets.onrender.com/';
+  return 'http://localhost:5000'
 };
 
 const App = () => {
