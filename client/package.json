@@ -8,6 +8,9 @@
     "build": "react-scripts build"
   },
   "keywords": [],
+   "engines": {
+    "node": "12.22.12"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
