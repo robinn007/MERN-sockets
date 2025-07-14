@@ -17,7 +17,7 @@
 
    ```
 2. cd ..
-3. nvm install 12.22.12
+3. cd client
 4. nvm use 12.22.12
 5.  npm install
 
