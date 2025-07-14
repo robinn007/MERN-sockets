@@ -18,7 +18,10 @@
    ```
 7. cd ..
 8. cd client
-4. nvm use 12.22.12
-5.  npm install
+9. npm install
+10.  To start the client side
+   ```bash
+npm start
+```
 
 
