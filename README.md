@@ -16,11 +16,6 @@
    npm run dev
 
    ```
-7 . cd..
-8 cd client
-9 npm install
-10. To start the client
- ```bash
-   npm start
+7   ```bash cd..``
+8 . cd client
 
-   ```
