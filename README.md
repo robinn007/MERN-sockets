@@ -16,8 +16,8 @@
    npm run dev
 
    ```
-2. cd ..
-3. cd client
+7. cd ..
+8. cd client
 4. nvm use 12.22.12
 5.  npm install
 
